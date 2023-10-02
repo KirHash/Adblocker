@@ -1,0 +1,16 @@
+{
+    "name": "KirHash Adblocker",
+    "version": "1.0",
+    "description": "KirHash Adblocker Tutorial",
+    "permissions": ["webRequest", "webRequestBlocking", "<all_urls>"],
+    "background": {
+        "scripts": ["background.js"]
+    },
+    "icons": {
+        "16": "icons/logo_16×16.png",
+        "48": "icons/logo_48×48.png",
+        "128": "icons/logo_128×128.png"
+
+    },
+    "manifest_version": 2
+}
